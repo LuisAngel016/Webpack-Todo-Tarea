@@ -1,6 +1,6 @@
 # webpack starter luis
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este proyecto es para organizar mis tareas por realizar y las que he realizado
 
 ### Notas:
 Rcuerden reconstruir los modulos de Node
